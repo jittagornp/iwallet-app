@@ -22,11 +22,13 @@ Tokens
 | <img src="./tokens/WBNB.png" width="26"/> | WBNB | 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c | 
 | <img src="./tokens/ETH.png" width="26"/> | ETH | 0x2170Ed0880ac9A755fd29B2688956BD959F933F8 | 
 
+See more on [BSC Scan](https://bscscan.com/)
+  
 Swap Router
 
-| Name | Contract Address | 
-|:----:|------------------|
-| Pancake Swap | 0x10ED43C718714eb63d5aA57B78B54704E256024E | 
+| Name | Contract Address | Link | 
+|:----:|------------------|------|
+| PancakeSwap | 0x10ED43C718714eb63d5aA57B78B54704E256024E | [https://pancakeswap.finance](https://pancakeswap.finance) | 
 
 ### Polygon
 
@@ -37,8 +39,10 @@ Tokens
 | <img src="./tokens/WMATIC.png" width="26"/> | WMATIC | 0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270 | 
 | <img src="./tokens/USDC.png" width="26"/> | USDC | 0x2791bca1f2de4661ed88a30c99a7a9449aa84174 | 
 
+See more on [Polygon Scan](https://polygonscan.com/)
+  
 Swap Router
 
-| Name | Contract Address | 
-|:----:|------------------|
-| Quick Swap | 0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff | 
+| Name | Contract Address | Link | 
+|:----:|------------------|------|
+| QuickSwap | 0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff | [https://quickswap.exchange](https://quickswap.exchange) |
