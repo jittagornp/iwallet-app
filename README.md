@@ -5,4 +5,4 @@
 # Install
 
 Docker
-- [https://hub.docker.com/repository/docker/jittagornp/iwallet](https://hub.docker.com/repository/docker/jittagornp/iwallet)
+- [https://hub.docker.com/r/jittagornp/iwallet](https://hub.docker.com/r/jittagornp/iwallet)
