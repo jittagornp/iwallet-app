@@ -15,7 +15,7 @@ Docker
 
 Tokens
 
-| Token | Name | Contract Address | 
+| Token | Symbol | Contract Address | 
 |:-----:|:----:|------------------|
 | <img src="./tokens/BTCB.png" width="26"/> | BTCB | 0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c | 
 | <img src="./tokens/BUSD.png" width="26"/> | BUSD | 0xe9e7cea3dedca5984780bafc599bd69add087d56 | 
@@ -32,7 +32,7 @@ Swap Router
 
 Tokens
 
-| Token | Name | Contract Address | 
+| Token | Symbol | Contract Address | 
 |:-----:|:----:|------------------|
 | <img src="./tokens/WMATIC.png" width="26"/> | WMATIC | 0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270 | 
 | <img src="./tokens/USDC.png" width="26"/> | USDC | 0x2791bca1f2de4661ed88a30c99a7a9449aa84174 | 
