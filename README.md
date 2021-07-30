@@ -2,7 +2,7 @@
 
 > DeFi Portfolio Rebalancing
 
-![](./iwallet.png)
+![](./iwallet.v2.png)
 
 # Installation
 
